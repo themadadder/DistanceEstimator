@@ -1,0 +1,6 @@
+After hour 1 the distance is 50 
+After hour 2 the distance is 100 
+After hour 3 the distance is 150 
+After hour 4 the distance is 200 
+After hour 5 the distance is 250 
+

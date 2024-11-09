@@ -1,0 +1,20 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Form1.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 10 - Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\bin\Debug\Distance Calculator.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\bin\Debug\Distance Calculator.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\bin\Debug\Distance Calculator.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\obj\Debug\Distance Calculator.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\obj\Debug\Distance_Calculator.distanceCalculator.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\obj\Debug\Distance_Calculator.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\obj\Debug\Distance Calculator.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\obj\Debug\Distance Calculator.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\obj\Debug\Distance Calculator.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 11 - Distance File\Distance Print File\obj\Debug\Distance Calculator.pdb
